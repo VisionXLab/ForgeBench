@@ -1,0 +1,10 @@
+{
+  "version": "forge-bench-paper-v4.0",
+  "application_weight": 0.30,
+  "reasoning_weight": 0.10,
+  "conflict_delta": 35.0,
+  "trusted_evidence_confidence": 0.70,
+  "conflict_shrinkage": 0.25,
+  "duplicate_family_penalty": 4.0,
+  "duplicate_penalty_cap": 12.0
+}
